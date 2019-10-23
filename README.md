@@ -3,7 +3,7 @@ This model is an easy-use software that create a basketball player specific prof
 
 ## Usage
 ### Getting Started
-Download the files Model.py and basketball_plotting.m and using the terminal navigate to the directory they are downloaded to.
+Download the files Model.py and basketball_plotting.m and using the terminal navigate to the directory they are downloaded to. Download the Basketball_project.pdf and read this document completely first. 
 
 ### Requirements
 The model was intended to be used with Python 3 and MATLAB. The Python 3 interpreter can be found [here] (https://www.python.org/downloads//). MATLAB can be downloaded [here] (https://www.mathworks.com/downloads/). 
