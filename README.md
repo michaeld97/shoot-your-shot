@@ -1,5 +1,5 @@
 # Player-Specific Release Optimization Kinematics Model 
-This model is an easy-use software that create a basketball player specific profile taking in play measurements of upper arm, forearm, and hand length. It outputs the sets of joint angles that correspond to a specific release form and also provides ball release properties (ball velocity, ball acceleration, fingertip velocity, fingertip acceleration) useful for the player. s
+This model is an easy-use software that creates a basketball player specific profile taking in play measurements of upper arm, forearm, and hand length. It outputs the sets of joint angles that correspond to a specific release form and also provides ball release properties (ball velocity, ball acceleration, fingertip velocity, fingertip acceleration) useful for the player. s
 
 ## Usage
 ### Getting Started
